@@ -662,6 +662,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba0030ac0dd8c524d87227df6a423bf6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  parameter: Music Volume
 --- !u!1 &212153163
 GameObject:
   m_ObjectHideFlags: 0
@@ -4935,6 +4936,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba0030ac0dd8c524d87227df6a423bf6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  parameter: SFX Volume
 --- !u!1 &2086495858
 GameObject:
   m_ObjectHideFlags: 0
